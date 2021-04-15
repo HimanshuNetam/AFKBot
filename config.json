@@ -5,7 +5,7 @@
     },
 
     "server": {
-        "host": "localhost",
+        "host": "HIMANSHUNETAM243.aternos.me",
         "port": 25565
     },
 
@@ -48,7 +48,7 @@
     "whispers": {
         "enable-answer": true,
         "timeout-on-whisper": 1000,
-        "message-to-answer": "Sorry, I'm an AFKBot"
+        "message-to-answer": "Don't Disturb"
     },
 
     "pvp": {
@@ -59,7 +59,7 @@
 
     "auto-eat": {
         "enable": true,
-        "send-status": false,
+        "send-status": true,
         "priority": "foodPoints",
         "start-at": 19,
         "banned-foods": [
@@ -74,9 +74,9 @@
     },
 
     "message-on-death": {
-        "enable": false, 
+        "enable": true, 
         "delay": 10000,
-        "message": "I died!"
+        "message": "What the f**k!"
     },
 
     "block-generators": {
@@ -102,7 +102,7 @@
     "message-on-interval": {
         "enable": false,
         "interval": 10000,
-        "message": "I am an AFKBot"
+        "message": "I am Spider_man"
     },
 
     "windows-notifications": {
